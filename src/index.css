@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Ysabeau+SC&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.roboto{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Ysabeau SC', sans-serif;
+}
+.title{
+    font-weight: bolder;
+    text-shadow: 0px 0px 5px black ;
+
+}
+#drop-down-con:hover  #drop-down-list{
+    display: flex;}
+#id{
+    transition: 0.3s;
+}
+.bg-img{
+    background-size: cover;
+    background-position: -5%;
+ background-repeat: no-repeat;
+    background-image: url("./assets//campbell-3ZUsNJhi_Ik-unsplash.jpg");
+}
+.text-shadow{
+    text-shadow: 0px 0px 2px black;
+}
+
+.font{
+    font-family: 'Roboto', sans-serif;
+}
