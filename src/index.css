@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Ysabeau+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -6,10 +8,11 @@
     font-family: 'Roboto', sans-serif;
 font-family: 'Ysabeau SC', sans-serif;
 }
+.sans{font-family: 'Open Sans', sans-serif;}
+.racing{font-family: 'Racing Sans One', cursive;}
 .title{
     font-weight: bolder;
     text-shadow: 0px 0px 5px black ;
-
 }
 #drop-down-con:hover  #drop-down-list{
     display: flex;}
@@ -29,3 +32,11 @@ font-family: 'Ysabeau SC', sans-serif;
 .font{
     font-family: 'Roboto', sans-serif;
 }
+#child-hover:hover ~  #grand-child , #child-hover2:hover ~ #grand-child2 , #child-hover3:hover ~ #grand-child3 , #child-hover4:hover ~ #grand-child4{
+    display: flex;
+}
+#grand-child:hover, #grand-child2:hover , #grand-child3:hover , #grand-child4:hover{
+    display: flex;
+}
+/* .grand-child-hover{} */
+

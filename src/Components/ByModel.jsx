@@ -11,10 +11,10 @@ export default class ByModel extends Component {
   }
   render() {
     return (
-      <div className='flex  flex-wrap justify-around w-full h-full items-center'>
+      <div className='flex  flex-wrap justify-around w-full  h-full items-center'>
      {
       data.fistdata.map((element) => {
-        return <div  key={element.img}> <Carcard nam={element.nam} img={element.img} /> </div>
+        return <div className='max-sm:space-y-2 space-y-0 bg-b  ' key={element.img}> <Carcard nam={element.nam} img={element.img} /> </div>
       })
      } 
       </div>

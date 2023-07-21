@@ -46,10 +46,161 @@
             "PcImg": "/src/assets/cars/wagon-r-2022-exterior-right-front-three-quarter.webp"
         } ,
         {
-            "PcName": " Tata Altroz",
+            "PcName": " Tata Altro",
             "PcPrice": "₹ 6.60 - 10.74 Lakh",
             "PcImg": "/src/assets/cars/tata altroz.webp"
         } 
+    ],
+    "thirdData":[
+{
+    "brandName":"Maruti suzuki",
+    "logo":"/src/assets/brands/maruti-suzuki.webp"
+},
+{
+    "brandName":"tata",
+    "logo":"/src/assets/brands/tata.webp"
+},
+{
+    "brandName":"hyundai",
+    "logo":"/src/assets/brands/hyundai.webp"
+},
+{
+    "brandName":"mahindra",
+    "logo":"/src/assets/brands/mahindra.webp"
+}
+,
+{
+    "brandName":"bmw",
+    "logo":"/src/assets/brands/bmw.webp"
+}
+,
+{
+    "brandName":"toyata",
+    "logo":"/src/assets/brands/toyota.webp"
+}
+,
+{
+    "brandName":" mercedes-benz",
+    "logo":"/src/assets/brands/mercedes-benz.webp"
+}
+,
+{
+    "brandName":"land-rover",
+    "logo":"/src/assets/brands/land-rover1647236056893.webp"
+}
+,
+{
+    "brandName":" kia",
+    "logo":"/src/assets/brands/kia.webp"
+}
+,
+{
+    "brandName":"honda ",
+    "logo":"/src/assets/brands/honda.webp"
+}
+,
+{
+    "brandName":"audi ",
+    "logo":"/src/assets/brands/audi.webp"
+}
+,
+{
+    "brandName":"volkswagen",
+    "logo":"/src/assets/brands/volkswagen.webp"
+}
+,
+{
+    "brandName":" skoda",
+    "logo":"/src/assets/brands/skoda1681982956420.webp"
+}
+
+,
+{
+    "brandName":" jaguar",
+    "logo":"/src/assets/brands/jaguar.webp"
+}
+
+,
+{
+    "brandName":" mg",
+    "logo":"/src/assets/brands/mg.webp"
+}
+
+,
+{
+    "brandName":"rolls-royce",
+    "logo":"/src/assets/brands/rolls-royce.webp"
+}
+
+,
+{
+    "brandName":"volvo ",
+    "logo":"/src/assets/brands/volvo.webp"
+}
+
+,
+{
+    "brandName":" nissan",
+    "logo":"/src/assets/brands/nissan.webp"
+}
+
+,
+{
+    "brandName":"lamborghini ",
+    "logo":"/src/assets/brands/lamborghini.webp"
+}
+
+,
+{
+    "brandName":" porsche",
+    "logo":"/src/assets/brands/porsche.webp"
+}
+
+,
+{
+    "brandName":"ferrari",
+    "logo":"/src/assets/brands/ferrari.webp"
+}
+
+,
+{
+    "brandName":"citroen ",
+    "logo":"/src/assets/brands/citroen1649763818937.webp"
+}
+
+,
+{
+    "brandName":"isuzu",
+    "logo":"/src/assets/brands/isuzu.webp"
+}
+
+,
+{
+    "brandName":"maserati",
+    "logo":"/src/assets/brands/gph63sa_1483779.webp"
+}
+
+,
+{
+    "brandName":" bentley",
+    "logo":"/src/assets/brands/bentley.webp"
+}
+
+,
+{
+    "brandName":"force motors",
+    "logo":"/src/assets/brands/force-motors.webp"
+}
+
+,
+{
+    "brandName":"byd",
+    "logo":"/src/assets/brands/byd1650348943682.webp"
+}
+
+
+
+
     ]
 }
 

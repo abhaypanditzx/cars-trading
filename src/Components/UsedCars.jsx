@@ -2,12 +2,12 @@
 function UsedCars() {
   return (
     <div className=" w-full flex h-full justify-center p-1  items-center  ">
-      <div className="bg-white px-1 flex items-center  ">
+      <div className="bg-gray-200 px-1 w-fit flex items-center  ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
           <path fillRule="evenodd" d="M11.54 22.351l.07.04.028.016a.76.76 0 00.723 0l.028-.015.071-.041a16.975 16.975 0 001.144-.742 19.58 19.58 0 002.683-2.282c1.944-1.99 3.963-4.98 3.963-8.827a8.25 8.25 0 00-16.5 0c0 3.846 2.02 6.837 3.963 8.827a19.58 19.58 0 002.682 2.282 16.975 16.975 0 001.145.742zM12 13.5a3 3 0 100-6 3 3 0 000 6z" clipRule="evenodd" />
         </svg>
 
-        <select className="bg-gray-200 max-sm:w-[10rem] outline-none h-10 w-[20rem]">
+        <select className="bg-gray-200 max-sm:w-[10rem] max-xl:w-[12rem] outline-none h-10 w-[20rem]">
           <option value="1">select your city</option>
           <optgroup label="Top Cities">
             <option value="mumbai" data-testing-id="mumbai">Mumbai</option>
@@ -1532,7 +1532,7 @@ function UsedCars() {
           </optgroup>
         </select>
       </div>
-      <button className="bg-red-600 w-[10rem] max-sm:w-[6rem] text-lg max-sm:text-xs  h-10 text-white font-semibold ">
+      <button className="bg-red-600 w-[10rem] max-xl:w-[8rem] max-xl:text-base max-sm:w-[6rem] text-lg max-sm:text-xs  h-10 text-white font-semibold ">
         ALL USED CARS
       </button>
     </div>
