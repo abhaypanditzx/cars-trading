@@ -3,199 +3,199 @@
         {
             "nam": "used honda city",
             "places": "Mumbai| Delhi| Bangalore| Chennai",
-            "img": "/src/assets/cars/2023-city-exterior-right-front-three-quarter.webp"
+            "img": "/src/assets/2023-city-exterior-right-front-three-quarter.webp"
         },
         {
             "nam": "Used Maruti Suzuki Wagon R",
             "places": "Mumbai| Delhi| Bangalore| Chennai",
-            "img": "/src/assets/cars/wagon-r-2022-exterior-right-front-three-quarter.webp"
+            "img": "/src/assets/wagon-r-2022-exterior-right-front-three-quarter.webp"
         },
         {
             "nam": "Used Maruti Suzuki Swift",
             "places": "Mumbai| Delhi| Bangalore| Chennai",
-            "img": "/src/assets/cars/exterior-right-front-three-quarter-10.webp"
+            "img": "/src/assets/exterior-right-front-three-quarter-10.webp"
         }
     ],
     "secondData": [
         {
             "PcName": "Mahindra XUV700",
             "PcPrice": "₹ 14.01 - 26.18 Lakh",
-            "PcImg": "/src/assets/cars/xuv700.webp"
+            "PcImg": "/src/assets/xuv700.webp"
         },
         {
             "PcName":  "Maruti Suzuki Swift",
             "PcPrice": "₹ 5.99 - 9.03 Lakh",
-            "PcImg": "/src/assets/cars/maruti suzuki swift.webp"
+            "PcImg": "/src/assets/maruti suzuki swift.webp"
         },
         {
             "PcName": " Tata Altroz",
             "PcPrice": "₹ 6.60 - 10.74 Lakh",
-            "PcImg": "/src/assets/cars/tata altroz.webp"
+            "PcImg": "/src/assets/tata altroz.webp"
         }
 
         ,
         {
             "PcName": " Tata nexon",
             "PcPrice": "₹ 7.80 - 14.50 Lakh",
-            "PcImg": "/src/assets/cars/tata-nexon.webp"
+            "PcImg": "/src/assets/tata-nexon.webp"
         }
         ,
         {
             "PcName": " mahindra thar",
             "PcPrice": "₹ 10.55 - 16.78 Lakh",
-            "PcImg": "/src/assets/cars/wagon-r-2022-exterior-right-front-three-quarter.webp"
+            "PcImg": "/src/assets/wagon-r-2022-exterior-right-front-three-quarter.webp"
         } ,
         {
             "PcName": " Tata Altro",
             "PcPrice": "₹ 6.60 - 10.74 Lakh",
-            "PcImg": "/src/assets/cars/tata altroz.webp"
+            "PcImg": "/src/assets/tata altroz.webp"
         } 
     ],
     "thirdData":[
 {
     "brandName":"Maruti suzuki",
-    "logo":"/src/assets/brands/maruti-suzuki.webp"
+    "logo":"/src/assets/maruti-suzuki.webp"
 },
 {
     "brandName":"tata",
-    "logo":"/src/assets/brands/tata.webp"
+    "logo":"/src/assets/tata.webp"
 },
 {
     "brandName":"hyundai",
-    "logo":"/src/assets/brands/hyundai.webp"
+    "logo":"/src/assets/hyundai.webp"
 },
 {
     "brandName":"mahindra",
-    "logo":"/src/assets/brands/mahindra.webp"
+    "logo":"/src/assets/mahindra.webp"
 }
 ,
 {
     "brandName":"bmw",
-    "logo":"/src/assets/brands/bmw.webp"
+    "logo":"/src/assets/bmw.webp"
 }
 ,
 {
     "brandName":"toyata",
-    "logo":"/src/assets/brands/toyota.webp"
+    "logo":"/src/assets/toyota.webp"
 }
 ,
 {
     "brandName":" mercedes-benz",
-    "logo":"/src/assets/brands/mercedes-benz.webp"
+    "logo":"/src/assets/mercedes-benz.webp"
 }
 ,
 {
     "brandName":"land-rover",
-    "logo":"/src/assets/brands/land-rover1647236056893.webp"
+    "logo":"/src/assets/land-rover1647236056893.webp"
 }
 ,
 {
     "brandName":" kia",
-    "logo":"/src/assets/brands/kia.webp"
+    "logo":"/src/assets/kia.webp"
 }
 ,
 {
     "brandName":"honda ",
-    "logo":"/src/assets/brands/honda.webp"
+    "logo":"/src/assets/honda.webp"
 }
 ,
 {
     "brandName":"audi ",
-    "logo":"/src/assets/brands/audi.webp"
+    "logo":"/src/assets/audi.webp"
 }
 ,
 {
     "brandName":"volkswagen",
-    "logo":"/src/assets/brands/volkswagen.webp"
+    "logo":"/src/assets/volkswagen.webp"
 }
 ,
 {
     "brandName":" skoda",
-    "logo":"/src/assets/brands/skoda1681982956420.webp"
+    "logo":"/src/assets/skoda1681982956420.webp"
 }
 
 ,
 {
     "brandName":" jaguar",
-    "logo":"/src/assets/brands/jaguar.webp"
+    "logo":"/src/assets/jaguar.webp"
 }
 
 ,
 {
     "brandName":" mg",
-    "logo":"/src/assets/brands/mg.webp"
+    "logo":"/src/assets/mg.webp"
 }
 
 ,
 {
     "brandName":"rolls-royce",
-    "logo":"/src/assets/brands/rolls-royce.webp"
+    "logo":"/src/assets/rolls-royce.webp"
 }
 
 ,
 {
     "brandName":"volvo ",
-    "logo":"/src/assets/brands/volvo.webp"
+    "logo":"/src/assets/volvo.webp"
 }
 
 ,
 {
     "brandName":" nissan",
-    "logo":"/src/assets/brands/nissan.webp"
+    "logo":"/src/assets/nissan.webp"
 }
 
 ,
 {
     "brandName":"lamborghini ",
-    "logo":"/src/assets/brands/lamborghini.webp"
+    "logo":"/src/assets/lamborghini.webp"
 }
 
 ,
 {
     "brandName":" porsche",
-    "logo":"/src/assets/brands/porsche.webp"
+    "logo":"/src/assets/porsche.webp"
 }
 
 ,
 {
     "brandName":"ferrari",
-    "logo":"/src/assets/brands/ferrari.webp"
+    "logo":"/src/assets/ferrari.webp"
 }
 
 ,
 {
     "brandName":"citroen ",
-    "logo":"/src/assets/brands/citroen1649763818937.webp"
+    "logo":"/src/assets/citroen1649763818937.webp"
 }
 
 ,
 {
     "brandName":"isuzu",
-    "logo":"/src/assets/brands/isuzu.webp"
+    "logo":"/src/assets/isuzu.webp"
 }
 
 ,
 {
     "brandName":"maserati",
-    "logo":"/src/assets/brands/gph63sa_1483779.webp"
+    "logo":"/src/assets/gph63sa_1483779.webp"
 }
 
 ,
 {
     "brandName":" bentley",
-    "logo":"/src/assets/brands/bentley.webp"
+    "logo":"/src/assets/bentley.webp"
 }
 
 ,
 {
     "brandName":"force motors",
-    "logo":"/src/assets/brands/force-motors.webp"
+    "logo":"/src/assets/force-motors.webp"
 }
 
 ,
 {
     "brandName":"byd",
-    "logo":"/src/assets/brands/byd1650348943682.webp"
+    "logo":"/src/assets/byd1650348943682.webp"
 }
 
 
